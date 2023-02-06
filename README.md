@@ -13,3 +13,4 @@
 
 <p align="center">Live Demo > (https://javascript-website-black.vercel.app/) <br></p>
 <p align="center"><img alt="primeira pagina" src="https://github.com/viviandemitry/Javascript-website/blob/main/DOM_array_Methods.PNG?raw=true"></p>
+ 
